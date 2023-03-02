@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_2.Negocio</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\0.Entidades\0.Entidades.csproj" />
+    <ProjectReference Include="..\1.AccesoDeDatos\1.AccesoDeDatos.csproj" />
+  </ItemGroup>
+
+</Project>

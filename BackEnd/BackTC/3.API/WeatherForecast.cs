@@ -1,4 +1,4 @@
-namespace BackTC
+namespace _3.API
 {
     public class WeatherForecast
     {

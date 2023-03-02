@@ -4,6 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>_3.API</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,7 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0.Entidades\0.Entidades.csproj" />
-    <ProjectReference Include="..\LogicaDeNegocio\2.LogicaDeNegocio.csproj" />
+    <ProjectReference Include="..\2.Negocio\2.Negocio.csproj" />
   </ItemGroup>
 
 </Project>
